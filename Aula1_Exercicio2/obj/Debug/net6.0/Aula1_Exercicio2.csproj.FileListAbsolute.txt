@@ -1,0 +1,15 @@
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\bin\Debug\net6.0\Aula1_Exercicio2.exe
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\bin\Debug\net6.0\Aula1_Exercicio2.deps.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\bin\Debug\net6.0\Aula1_Exercicio2.runtimeconfig.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\bin\Debug\net6.0\Aula1_Exercicio2.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\bin\Debug\net6.0\Aula1_Exercicio2.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.AssemblyInfo.cs
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\refint\Aula1_Exercicio2.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\Aula1_Exercicio2.genruntimeconfig.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula1_Exercicio2\obj\Debug\net6.0\ref\Aula1_Exercicio2.dll

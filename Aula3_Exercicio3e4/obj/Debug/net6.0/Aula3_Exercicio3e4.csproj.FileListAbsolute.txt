@@ -1,0 +1,15 @@
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\bin\Debug\net6.0\Aula3_Exercicio3e4.exe
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\bin\Debug\net6.0\Aula3_Exercicio3e4.deps.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\bin\Debug\net6.0\Aula3_Exercicio3e4.runtimeconfig.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\bin\Debug\net6.0\Aula3_Exercicio3e4.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\bin\Debug\net6.0\Aula3_Exercicio3e4.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.csproj.AssemblyReference.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.AssemblyInfoInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.AssemblyInfo.cs
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.csproj.CoreCompileInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\refint\Aula3_Exercicio3e4.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\Aula3_Exercicio3e4.genruntimeconfig.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Aula3_Exercicio3e4\obj\Debug\net6.0\ref\Aula3_Exercicio3e4.dll
