@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj": {}
+    "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj": {
+    "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj",
         "projectName": "Aula2_Exercicio2",
-        "projectPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj",
+        "projectPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio2\\Aula2_Exercicio2.csproj",
         "packagesPath": "C:\\Users\\Tammy Trevisan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio2\\obj\\",
+        "outputPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

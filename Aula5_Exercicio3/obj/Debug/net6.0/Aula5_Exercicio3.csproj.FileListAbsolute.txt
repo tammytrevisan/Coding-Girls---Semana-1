@@ -1,0 +1,15 @@
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\bin\Debug\net6.0\Aula5_Exercicio3.exe
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\bin\Debug\net6.0\Aula5_Exercicio3.deps.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\bin\Debug\net6.0\Aula5_Exercicio3.runtimeconfig.json
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\bin\Debug\net6.0\Aula5_Exercicio3.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\bin\Debug\net6.0\Aula5_Exercicio3.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.csproj.AssemblyReference.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.AssemblyInfo.cs
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\refint\Aula5_Exercicio3.dll
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.pdb
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\Aula5_Exercicio3.genruntimeconfig.cache
+C:\Users\Tammy Trevisan\Documents\Aula BueEdTech\Semana1\Coding-Girls---Semana-1\Aula5_Exercicio3\obj\Debug\net6.0\ref\Aula5_Exercicio3.dll

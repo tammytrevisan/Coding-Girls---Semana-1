@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio5\\Aula2_Exercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio5\\Aula2_Exercicio5.csproj",
       "projectName": "Aula2_Exercicio5",
-      "projectPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio5\\Aula2_Exercicio5.csproj",
+      "projectPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio5\\Aula2_Exercicio5.csproj",
       "packagesPath": "C:\\Users\\Tammy Trevisan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Aula2_Exercicio5\\obj\\",
+      "outputPath": "C:\\Users\\Tammy Trevisan\\Documents\\Aula BueEdTech\\Semana1\\Coding-Girls---Semana-1\\Aula2_Exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

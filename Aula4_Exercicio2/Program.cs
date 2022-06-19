@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/*Crie um programa que armazene 10 números digitados pelo usuário em dois vetores: um somente para os números pares,
+﻿/*Crie um programa que armazene 10 números digitados pelo usuário em dois vetores: um somente para os números pares,
  * e outro para os números impares. Após, exiba os valores dos dois vetores, um em cada linha.*/
 
 Console.WriteLine("\t ------> PARES / IMPARES <------");
@@ -22,5 +20,22 @@ for (int i = 0; i < 10; i++)
         impar[i] = num;
     }
 }
-Console.WriteLine($"\nPAR: {par[0]} {par[1]} {par[2]} {par[3]} {par[4]} {par[5]} {par[6]} {par[7]} {par[8]} {par[9]}");
-Console.WriteLine($"\nIMPAR: {impar[0]} {impar[1]} {impar[2]} {impar[3]} {impar[4]} {impar[5]} {impar[6]} {impar[7]} {impar[8]} {impar[9]}");
+
+Console.WriteLine("\nNúmero(s) Par(es): ");
+for (int i = 0; i < 10; i++)
+{
+    if (par[i] != 0)
+    {
+        Console.Write($"{par[i]} ");
+    }
+}
+
+Console.WriteLine("\n\nNúmero(s) Impar(es): ");
+for(int i = 0; i < 10; i++)
+{ 
+    if (impar[i] != 0)
+    {
+        Console.Write($"{impar[i]} ");
+    }
+
+}
